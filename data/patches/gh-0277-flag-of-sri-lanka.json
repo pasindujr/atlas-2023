@@ -1,0 +1,93 @@
+{
+	"id": 394,
+	"name": "Flag of Sri Lanka",
+	"description": "Sri Lanka is an island country in South Asia.",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Sri_Lanka",
+			"https://en.wikipedia.org/wiki/Flag_of_Sri_Lanka"
+		],
+		"subreddit": [
+			"srilanka"
+		],
+		"discord": [
+			"kMx5UqwS"
+		]
+	},
+	"path": {
+		"52-73": [
+			[
+				313,
+				-47
+			],
+			[
+				313,
+				-32
+			],
+			[
+				338,
+				-32
+			],
+			[
+				338,
+				-47
+			]
+		],
+		"76-229": [
+			[
+				288,
+				-22
+			],
+			[
+				288,
+				-8
+			],
+			[
+				313,
+				-8
+			],
+			[
+				313,
+				-22
+			],
+			[
+				313,
+				-23
+			],
+			[
+				282,
+				-25
+			],
+			[
+				282,
+				-8
+			],
+			[
+				313,
+				-8
+			],
+			[
+				313,
+				-25
+			],
+			[
+				282,
+				-25
+			],
+			[
+				282,
+				-25
+			]
+		]
+	},
+	"center": {
+		"52-73": [
+			326,
+			-39
+		],
+		"76-229": [
+			285,
+			-17
+		]
+	}
+}
